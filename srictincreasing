@@ -8,7 +8,7 @@ str=["First","Second"]
 
     
 def whoIsTheWinner(arr):
-    # WRITE DOWN YOUR CODE HERE
+   
     length=len(arr)
     nondup=0
     dup=0
